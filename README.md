@@ -75,6 +75,10 @@ Unfortunately there is no `git pull` functionality in Colab, so once you push a 
 you have to reopen your notebook (File -> Open notebook -> GITHUB -> Open notebook in new tab (Square with arrow next to the notebook name)).
 The downside is that the runtime has to be reloaded.
 
+
+
+##### Warning This might create conflicts! 
+ 
 However, it's possible to push changes made in colab to the Repo (File -> Save a copy in Github):
 ![colab push](pictures/colab_push.png)
 This will make a commit to the Repository.
